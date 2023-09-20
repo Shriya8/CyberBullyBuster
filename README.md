@@ -1,7 +1,6 @@
 # CyberBullyBuster
 Classification of a dataset of tweets as gender-based cyberbullying or not cyberbullying using numerous ML classification methods and Neural Network Architectures.
 
-CyberBully-Buster 🛡️
 Project Overview
 Given the rise of cyberbullying across social media platforms, this project aims to accurately classify a dataset of tweets as a step to improve content moderation policies.
 
